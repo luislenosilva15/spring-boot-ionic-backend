@@ -19,7 +19,6 @@ public class ItemPedidoPK implements Serializable {
 	
 	private Produto produto;
 	
-	
 	public Pedido getPedido() {
 		return pedido;
 	}
